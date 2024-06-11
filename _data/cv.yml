@@ -11,33 +11,33 @@
 - title: Publications
   type: time_table
   contents:
-    - title: ConfMask: Enabling Privacy-Preserving Configuration Sharing via Anonymization
+    - title: "ConfMask: Enabling Privacy-Preserving Configuration Sharing via Anonymization"
       year: 2024
       description:
-        - publisher: ACM SIGCOMM 2024 Conference
-        - authors: Yuejie Wang, Qiutong Men, Yao Xiao, Yongting Chen, Guyue Liu
-    - title: Simple Rule Injection for ComplEx Embeddings
+        - "publisher: ACM SIGCOMM 2024 Conference"
+        - "authors: Yuejie Wang, Qiutong Men, Yao Xiao, Yongting Chen, Guyue Liu"
+    - title: "Simple Rule Injection for ComplEx Embeddings"
       year: 2023
       description:
-        - publisher: arXiv preprint arXiv:2308.03269
-        - authors: Haodi Ma, Anthony Colas, Yuejie Wang, Ali Sadeghian, Daisy Zhe Wang
-    - title: A practical approach to forgetting in description logics with nominals
+        - "publisher: arXiv preprint arXiv:2308.03269"
+        - "authors: Haodi Ma, Anthony Colas, Yuejie Wang, Ali Sadeghian, Daisy Zhe Wang"
+    - title: "A practical approach to forgetting in description logics with nominal"
       year: 2020
       description:
-        - publisher: Proceedings of the AAAI Conference on Artificial Intelligence
-        - authors: Yizheng Zhao, Renate Schmidt, Yuejie Wang, Xuanming Zhang, Hao Feng
-    - title: A Robust IoT‐Based Three‐Factor Authentication Scheme for Cloud Computing Resistant to Session Key Exposure
+        - "publisher: Proceedings of the AAAI Conference on Artificial Intelligence"
+        - "authors: Yizheng Zhao, Renate Schmidt, Yuejie Wang, Xuanming Zhang, Hao Feng"
+    - title: "A Robust IoT‐Based Three‐Factor Authentication Scheme for Cloud Computing Resistant to Session Key Exposure"
       year: 2020
       description:
-        - publisher: Wireless Communications and Mobile Computing
-        - authors: Feifei Wang, Guosheng Xu, Guoai Xu, Yuejie Wang, Junhao Peng
+        - "publisher: Wireless Communications and Mobile Computing"
+        - "authors: Feifei Wang, Guosheng Xu, Guoai Xu, Yuejie Wang, Junhao Peng"
 
 - title: Education
   type: time_table
   contents:
     - title: PhD
       institution: New York University Shanghai
-      year: 2022-
+      year: 2022-NOW
       description:
         - Advised by Prof. Guyue Liu.
     - title: M.S. in Computer Science
