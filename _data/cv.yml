@@ -8,6 +8,21 @@
     - name: Languages
       value: English, Chinese
 
+- title: Education
+  type: time_table
+  contents:
+    - title: PhD
+      institution: New York University Shanghai
+      year: 2022.09-NOW
+      description:
+        - "Advisor: Guyue Liu"
+    - title: M.S. in Computer Science
+      institution: New York University
+      year: 2020.09-2022.05
+    - title: B.S. in Computer Science
+      institution: Peking University
+      year: 2016.09-2020.07
+
 - title: Publications
   type: time_table
   contents:
@@ -32,17 +47,12 @@
         - "Wireless Communications and Mobile Computing"
         - "Authors: Feifei Wang, Guosheng Xu, Guoai Xu, Yuejie Wang, Junhao Peng"
 
-- title: Education
+- title: Experience
   type: time_table
   contents:
-    - title: PhD
-      institution: New York University Shanghai
-      year: 2022-NOW
+    - title: Part-time Intern
+      institution: Megvii Technology Limited
+      year: 2019.06-2019.12
       description:
-        - "Advisor: Guyue Liu"
-    - title: M.S. in Computer Science
-      institution: New York University
-      year: 2020-2022
-    - title: B.S. in Computer Science
-      institution: Peking University
-      year: 2016-2020
+        - CUDA programming
+        - Quantization-aware training
