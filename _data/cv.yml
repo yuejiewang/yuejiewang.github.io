@@ -11,9 +11,14 @@
 - title: Education
   type: time_table
   contents:
-    - title: PhD
+    - title: Ph.D. in Computer Science
+      institution: Peking University
+      year: 2024.09-NOW
+      description:
+        - "Advisor: Guyue Liu"
+    - title: Ph.D. in Computer Science
       institution: New York University Shanghai
-      year: 2022.09-NOW
+      year: 2022.09-2024-08 (transfer to PKU)
       description:
         - "Advisor: Guyue Liu"
     - title: M.S. in Computer Science
@@ -26,10 +31,15 @@
 - title: Publications
   type: time_table
   contents:
+    - title: "Heimdall: Towards Risk-Aware Network Management Outsourcing"
+      year: 2025
+      description:
+        - "Accepted by NDSS 2025"
+        - "Authors: Yuejie Wang, Qiutong Men, Yongting Chen, Jiajin Liu, Gengyu Chen, Ying Zhang, Guyue Liu, Vyas Sekar"
     - title: "ConfMask: Enabling Privacy-Preserving Configuration Sharing via Anonymization"
       year: 2024
       description:
-        - "Accepted by ACM SIGCOMM 2024 Conference"
+        - "In Proceedings of the ACM SIGCOMM 2024 Conference (pp. 465-483)."
         - "Authors: Yuejie Wang, Qiutong Men, Yao Xiao, Yongting Chen, Guyue Liu"
     - title: "Simple Rule Injection for ComplEx Embeddings"
       year: 2023
@@ -39,7 +49,7 @@
     - title: "A practical approach to forgetting in description logics with nominal"
       year: 2020
       description:
-        - "Proceedings of the AAAI Conference on Artificial Intelligence"
+        - "In Proceedings of the AAAI Conference on Artificial Intelligence"
         - "Authors: Yizheng Zhao, Renate Schmidt, Yuejie Wang, Xuanming Zhang, Hao Feng"
     - title: "A Robust IoT‐Based Three‐Factor Authentication Scheme for Cloud Computing Resistant to Session Key Exposure"
       year: 2020
@@ -50,9 +60,20 @@
 - title: Experience
   type: time_table
   contents:
+    - title: Research Intern
+      institution: Beijing Academy of Artificial Intelligence (BAAI)
+      year: 2024.08-NOW
+      description:
+        - Collective communications for heterogeneous hardware
+    - title: Research Intern
+      institution: Huawei Technologies
+      year: 2023.09-2024.06
+      description:
+        - L7 microservice load-balancer using eBPF
+        - RDMA scheduling policies for large-scale HPC applications
     - title: Part-time Intern
       institution: Megvii Technology Limited
       year: 2019.06-2019.12
       description:
-        - CUDA programming
+        - CUDA programming for machine learning computations
         - Quantization-aware training
