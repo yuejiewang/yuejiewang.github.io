@@ -31,21 +31,36 @@
 - title: Publications
   type: time_table
   contents:
+    - title: "Practical and Scalable RDMA Connection Sharing for HPC Workload"
+      year: 2026
+      description:
+        - "Accepted by EuroSys 2026"
+        - "Authors: Yuejie Wang, Tuo Fang, Biyu Peng, Yang Cheng, Xin Sun, Chengchao Xu, Yuchen Tang, Yuxin Ren, Ning Jia, Xinwei Hu, Yunfei Du, Guyue Liu"
+    - title: "MirrorNet: High-fidelity and Scalable Network Emulation for Software-defined WAN"
+      year: 2026
+      description:
+        - "Accepted by NSDI 2026"
+        - "Authors: Congcong Miao, Yuejie Wang, Jianming Wang, Xuefeng Ji, Guozhi Shan, Pan Fang, Yanke Zhang, Jialin Li, Xianneng Zou, Guyue Liu"
+    - title: "CascadeNet: Generating Network Traffic with High-Fidelity Temporal Patterns"
+      year: 2026
+      description:
+        - "Accepted by NSDI 2026"
+        - "Authors: Runwei Lu, Yanran Deng, Ruixuan Li, Jinting Liu, Yuejie Wang, Xinyu Li, Deming Xu, Han Tian, Kai Chen, Guyue Liu"
     - title: "Heimdall: Towards Risk-Aware Network Management Outsourcing"
       year: 2025
       description:
-        - "Accepted by NDSS 2025"
+        - "In NDSS 2025"
         - "Authors: Yuejie Wang, Qiutong Men, Yongting Chen, Jiajin Liu, Gengyu Chen, Ying Zhang, Guyue Liu, Vyas Sekar"
+    - title: "Simple Rule Injection for ComplEx Embeddings"
+      year: 2025
+      description:
+        - "Accepted by ICKG 2025"
+        - "Authors: Haodi Ma, Anthony Colas, Yuejie Wang, Ali Sadeghian, Daisy Zhe Wang"
     - title: "ConfMask: Enabling Privacy-Preserving Configuration Sharing via Anonymization"
       year: 2024
       description:
         - "In Proceedings of the ACM SIGCOMM 2024 Conference (pp. 465-483)."
         - "Authors: Yuejie Wang, Qiutong Men, Yao Xiao, Yongting Chen, Guyue Liu"
-    - title: "Simple Rule Injection for ComplEx Embeddings"
-      year: 2023
-      description:
-        - "arXiv preprint arXiv:2308.03269"
-        - "Authors: Haodi Ma, Anthony Colas, Yuejie Wang, Ali Sadeghian, Daisy Zhe Wang"
     - title: "A practical approach to forgetting in description logics with nominal"
       year: 2020
       description:
