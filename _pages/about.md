@@ -16,4 +16,4 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
 
-I am a Computer Science Ph.D student at Peking University, advised by Professor Guyue Liu. My research focuses on computer networks and systems, especially trustworthy networks, network verification, and machine learning systems. I received my M.S. in CS from NYU in 2022 and my B.S. in CS from Peking University in 2020.
+I am a Computer Science Ph.D student at Peking University, advised by Professor Guyue Liu. My research focuses on computer networks and systems, especially trustworthy networks, data center networks (DCNs), and machine learning systems. I received my M.S. in CS from NYU in 2022 and my B.S. in CS from Peking University in 2020.
