@@ -1,4 +1,0 @@
-User-agent: *
-Disallow:
-
-Sitemap: https://yuejiewang.github.io/sitemap.xml
