@@ -31,31 +31,31 @@
 - title: Publications
   type: time_table
   contents:
-    - title: "Practical and Scalable RDMA Connection Sharing for HPC Workload"
-      year: 2026
-      description:
-        - "Accepted by EuroSys 2026"
-        - "Authors: Yuejie Wang, Tuo Fang, Biyu Peng, Yang Cheng, Xin Sun, Chengchao Xu, Yuchen Tang, Yuxin Ren, Ning Jia, Xinwei Hu, Yunfei Du, Guyue Liu"
     - title: "MirrorNet: High-fidelity and Scalable Network Emulation for Software-defined WAN"
       year: 2026
       description:
-        - "Accepted by NSDI 2026"
-        - "Authors: Congcong Miao, Yuejie Wang, Jianming Wang, Xuefeng Ji, Guozhi Shan, Pan Fang, Yanke Zhang, Jialin Li, Xianneng Zou, Guyue Liu"
+        - "In 23rd USENIX Symposium on Networked Systems Design and Implementation (NSDI 26) (pp. 175-190)."
+        - "Authors: Congcong Miao, Yuejie Wang, Jianming Wang, Xuefeng Ji, Guozhi Shan, Sirui Li, Pan Fang, Yanke Zhang, Jialin Li, Xianneng Zou, Guyue Liu"
     - title: "CascadeNet: Generating Network Traffic with High-Fidelity Temporal Patterns"
       year: 2026
       description:
-        - "Accepted by NSDI 2026"
+        - "In 23rd USENIX Symposium on Networked Systems Design and Implementation (NSDI 26) (pp. 1613-1633)."
         - "Authors: Runwei Lu, Yanran Deng, Ruixuan Li, Jinting Liu, Yuejie Wang, Xinyu Li, Deming Xu, Han Tian, Kai Chen, Guyue Liu"
+    - title: "Practical and Scalable RDMA Connection Sharing for HPC Workload"
+      year: 2026
+      description:
+        - "In Proceedings of the 21st European Conference on Computer Systems (EuroSys '26) (pp. 2141-2156)."
+        - "Authors: Yuejie Wang, Tuo Fang, Biyu Peng, Yang Cheng, Xin Sun, Chengchao Xu, Yuchen Tang, Yuxin Ren, Ning Jia, Xinwei Hu, Yunfei Du, Guyue (Grace) Liu"
+    - title: "Simple Rule Injection for ComplEx Embeddings"
+      year: 2025
+      description:
+        - "In 2025 IEEE International Conference on Knowledge Graph (ICKG) (pp. 245-252)."
+        - "Authors: Haodi Ma, Anthony Colas, Yuejie Wang, Ali Sadeghian, Daisy Zhe Wang"
     - title: "Heimdall: Towards Risk-Aware Network Management Outsourcing"
       year: 2025
       description:
         - "In NDSS 2025"
         - "Authors: Yuejie Wang, Qiutong Men, Yongting Chen, Jiajin Liu, Gengyu Chen, Ying Zhang, Guyue Liu, Vyas Sekar"
-    - title: "Simple Rule Injection for ComplEx Embeddings"
-      year: 2025
-      description:
-        - "Accepted by ICKG 2025"
-        - "Authors: Haodi Ma, Anthony Colas, Yuejie Wang, Ali Sadeghian, Daisy Zhe Wang"
     - title: "ConfMask: Enabling Privacy-Preserving Configuration Sharing via Anonymization"
       year: 2024
       description:
