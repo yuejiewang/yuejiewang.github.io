@@ -28,29 +28,19 @@
       institution: Peking University
       year: 2016.09-2020.07
 
-- title: Publications
+- title: Selected Publications
   type: time_table
   contents:
-    - title: "MirrorNet: High-fidelity and Scalable Network Emulation for Software-defined WAN"
-      year: 2026
-      description:
-        - "In 23rd USENIX Symposium on Networked Systems Design and Implementation (NSDI 26) (pp. 175-190)."
-        - "Authors: Congcong Miao, Yuejie Wang, Jianming Wang, Xuefeng Ji, Guozhi Shan, Sirui Li, Pan Fang, Yanke Zhang, Jialin Li, Xianneng Zou, Guyue Liu"
-    - title: "CascadeNet: Generating Network Traffic with High-Fidelity Temporal Patterns"
-      year: 2026
-      description:
-        - "In 23rd USENIX Symposium on Networked Systems Design and Implementation (NSDI 26) (pp. 1613-1633)."
-        - "Authors: Runwei Lu, Yanran Deng, Ruixuan Li, Jinting Liu, Yuejie Wang, Xinyu Li, Deming Xu, Han Tian, Kai Chen, Guyue Liu"
     - title: "Practical and Scalable RDMA Connection Sharing for HPC Workload"
       year: 2026
       description:
         - "In Proceedings of the 21st European Conference on Computer Systems (EuroSys '26) (pp. 2141-2156)."
         - "Authors: Yuejie Wang, Tuo Fang, Biyu Peng, Yang Cheng, Xin Sun, Chengchao Xu, Yuchen Tang, Yuxin Ren, Ning Jia, Xinwei Hu, Yunfei Du, Guyue (Grace) Liu"
-    - title: "Simple Rule Injection for ComplEx Embeddings"
-      year: 2025
+    - title: "MirrorNet: High-fidelity and Scalable Network Emulation for Software-defined WAN"
+      year: 2026
       description:
-        - "In 2025 IEEE International Conference on Knowledge Graph (ICKG) (pp. 245-252)."
-        - "Authors: Haodi Ma, Anthony Colas, Yuejie Wang, Ali Sadeghian, Daisy Zhe Wang"
+        - "In 23rd USENIX Symposium on Networked Systems Design and Implementation (NSDI 26) (pp. 175-190)."
+        - "Authors: Congcong Miao, Yuejie Wang, Jianming Wang, Xuefeng Ji, Guozhi Shan, Sirui Li, Pan Fang, Yanke Zhang, Jialin Li, Xianneng Zou, Guyue Liu"
     - title: "Heimdall: Towards Risk-Aware Network Management Outsourcing"
       year: 2025
       description:
@@ -61,16 +51,11 @@
       description:
         - "In Proceedings of the ACM SIGCOMM 2024 Conference (pp. 465-483)."
         - "Authors: Yuejie Wang, Qiutong Men, Yao Xiao, Yongting Chen, Guyue Liu"
-    - title: "A practical approach to forgetting in description logics with nominal"
-      year: 2020
+    - title: "CascadeNet: Generating Network Traffic with High-Fidelity Temporal Patterns"
+      year: 2026
       description:
-        - "In Proceedings of the AAAI Conference on Artificial Intelligence"
-        - "Authors: Yizheng Zhao, Renate Schmidt, Yuejie Wang, Xuanming Zhang, Hao Feng"
-    - title: "A Robust IoT‐Based Three‐Factor Authentication Scheme for Cloud Computing Resistant to Session Key Exposure"
-      year: 2020
-      description:
-        - "Wireless Communications and Mobile Computing"
-        - "Authors: Feifei Wang, Guosheng Xu, Guoai Xu, Yuejie Wang, Junhao Peng"
+        - "In 23rd USENIX Symposium on Networked Systems Design and Implementation (NSDI 26) (pp. 1613-1633)."
+        - "Authors: Runwei Lu, Yanran Deng, Ruixuan Li, Jinting Liu, Yuejie Wang, Xinyu Li, Deming Xu, Han Tian, Kai Chen, Guyue Liu"
 
 - title: Experience
   type: time_table
@@ -92,3 +77,19 @@
       description:
         - CUDA programming for machine learning computations
         - Quantization-aware training
+
+- title: Awards and Honors
+  type: time_table
+  contents:
+    - title: 博士生校长奖学金
+      institution: Peking University
+      year: 2025-2026
+    - title: 三好学生标兵
+      institution: Peking University
+      year: 2024-2025
+    - title: 学术十杰
+      institution: School of Computer Science, Peking University
+      year: 2024-2025
+    - title: 腾讯奖学金
+      institution: School of Computer Science, Peking University
+      year: 2024-2025
